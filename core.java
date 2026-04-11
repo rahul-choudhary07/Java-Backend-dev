@@ -30,13 +30,64 @@
 
 // contentional statemwnt  in java  core  
 
+// public class core {
+//     public static void main(String[] args) {
+//         int x = 1;
+//         if (x > 40 ) {
+//             System.out.println("hello");
+//         } else {
+//             System.out.println("bye");
+//         }
+//     }
+// }
+
+// public class core {
+//     public static void main(String[] args) {
+//         int x = 3;
+//         int y = 4;
+//         int z = 6;
+//         if (x > y && x > z) {
+//             System.out.println(x);
+//         } else if (y > z) {
+//             System.out.println(y);
+//         } else {
+//             System.out.println(z);
+//         }
+
+//     }
+// }
+
+// ternary operator  in java 
+// public class core {
+//     public static void main(String[] args) {
+
+//         int n = 4;
+//         int result = 5;
+
+//         // for ternary operator
+// // ?: for  opration in java  
+//         result = n % 2 == 0 ? 10 : 20;
+//         System.out.println(result);
+//     }
+// }
+
+// switch condition in java  
 public class core {
     public static void main(String[] args) {
-        int x = 1;
-        if (x > 40 ) {
-            System.out.println("hello");
-        } else {
-            System.out.println("bye");
+        // switch condition
+        int n = 1;
+        switch (n) {
+            case 1:
+                System.out.println("h");
+                break;
+            case 2:
+                System.out.println("he");
+                break;
+            case 3:
+                System.out.println("hel");
+                break;
+            default:
+                System.out.println("hello");
         }
     }
 }
