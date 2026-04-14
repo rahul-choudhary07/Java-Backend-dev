@@ -72,22 +72,43 @@
 // }
 
 // switch condition in java  
-public class core {
-    public static void main(String[] args) {
-        // switch condition
-        int n = 1;
-        switch (n) {
-            case 1:
-                System.out.println("h");
-                break;
-            case 2:
-                System.out.println("he");
-                break;
-            case 3:
-                System.out.println("hel");
-                break;
-            default:
-                System.out.println("hello");
-        }
-    }
-}
+// public class core {
+//     public static void main(String[] args) {
+//         // switch condition
+//         int n = 1;
+//         switch (n) {
+//             case 1:
+//                 System.out.println("h");
+//                 break;
+//             case 2:
+//                 System.out.println("he");
+//                 break;
+//             case 3:
+//                 System.out.println("hel");
+//                 break;
+//             default:
+//                 System.out.println("hello");
+//         }
+//     }
+// }
+
+// looop in java core
+
+// types  of loop in core java
+
+//for 
+// while 
+// do while  
+
+
+// public class core {
+//     public static void main(String[] args) {
+//     //   while  loop in java 
+//         int i = 1;
+//         while (i <= 4) {
+//             System.out.println("hii " + i);
+//             i++;
+//         }
+//     }
+// }
+
